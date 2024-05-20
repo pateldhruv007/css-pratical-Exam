@@ -1,0 +1,13 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+#Contact-us{
+    border: 1px solid #000;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-image: url(https://media.istockphoto.com/id/1161476728/photo/abstract-blurred-in-front-of-entrance-modern-glass-decorative-of-company-hall-background-with.jpg?s=2048x2048&w=is&k=20&c=ymo7YI5VE_NR63dQeEVM3mQ4OzUTO9Clk-BP1SYVdIw=);
+}
+
